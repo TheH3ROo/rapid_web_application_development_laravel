@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "routes"
+		},
+		{
+			"path": "resources\\views"
+		},
+		{
+			"path": "app\\Http\\Controllers"
+		},
+		{
+			"path": "app\\Models"
+		},
+		{
+			"path": "database\\migrations"
+		},
+		{
+			"path": "database\\seeders"
+		}
+	],
+	"settings": {}
+}
